@@ -38,9 +38,7 @@ python taxi.py
 ### 3_walking_ARS
 Performs augmented random search to walk a two legged bot across a field
 
-<video width="320" height="240" controls>
-  <source src="https://i.imgur.com/l0fjQCz.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/57157860/150624553-33716301-ac8c-4e16-9c14-897a8a55beca.mp4
 
 To see the result/train, run in command
 ```
